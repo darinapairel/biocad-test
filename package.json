@@ -2,15 +2,18 @@
   "name": "biocad-test",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://darinapairel97.github.io/biocad-test/",
   "dependencies": {
     "bootstrap": "^5.1.3",
+    "gh-pages": "^3.2.3",
     "node-sass": "^6.0.1",
     "react": "^17.0.2",
     "react-bootstrap": "^2.0.0",
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3"
+    "react-scripts": "^4.0.3"
   },
   "scripts": {
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
