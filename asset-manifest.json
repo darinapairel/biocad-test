@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/biocad-test/static/css/main.97317073.chunk.css",
+    "main.js": "/biocad-test/static/js/main.82048070.chunk.js",
+    "main.js.map": "/biocad-test/static/js/main.82048070.chunk.js.map",
+    "runtime-main.js": "/biocad-test/static/js/runtime-main.9f7ee82b.js",
+    "runtime-main.js.map": "/biocad-test/static/js/runtime-main.9f7ee82b.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/biocad-test/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.318cd2b1.chunk.js": "/biocad-test/static/js/2.318cd2b1.chunk.js",
+    "static/js/2.318cd2b1.chunk.js.map": "/biocad-test/static/js/2.318cd2b1.chunk.js.map",
+    "index.html": "/biocad-test/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/biocad-test/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.97317073.chunk.css.map": "/biocad-test/static/css/main.97317073.chunk.css.map",
+    "static/js/2.318cd2b1.chunk.js.LICENSE.txt": "/biocad-test/static/js/2.318cd2b1.chunk.js.LICENSE.txt",
+    "static/media/base.scss": "/biocad-test/static/media/TTNorms-Thin.0e3425c1.ttf",
+    "static/media/error.c1b7da06.svg": "/biocad-test/static/media/error.c1b7da06.svg",
+    "static/media/scale.dea3403d.svg": "/biocad-test/static/media/scale.dea3403d.svg",
+    "static/media/success.9039e7d8.svg": "/biocad-test/static/media/success.9039e7d8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f7ee82b.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.318cd2b1.chunk.js",
+    "static/css/main.97317073.chunk.css",
+    "static/js/main.82048070.chunk.js"
+  ]
+}
