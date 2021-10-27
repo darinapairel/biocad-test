@@ -1,0 +1,28 @@
+.device-info{
+    font-family: "TTNorms";
+    padding: 20px;
+    font-size: 14px;
+    line-height: 17px;
+    width: 550px !important;
+    height: 330px;
+    display: flex;
+    flex-direction: column;
+    background-color:#F7F7F7;
+    ;
+    .info-row{
+        display: flex;
+        .key{
+            font-weight: 400;
+            color: #939DA6;
+            ;
+        }
+        .val{
+            font-weight: 500;
+            margin-left: 8px;
+            &.link{
+                color: #4990E2;
+            }
+        }
+    }
+    
+}

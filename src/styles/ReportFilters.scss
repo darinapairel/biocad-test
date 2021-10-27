@@ -1,0 +1,30 @@
+.report-filter{
+    display: inline-block;
+    width: 221px !important;
+    height: 229px;
+    font-family: "TTNorms";
+    font-size: 16px;
+    line-height: 24px;
+    .form-select{
+        width: 220px;
+        height: 30px;
+        padding: 0.15rem 2.25rem .15rem .75rem;
+        margin-bottom: 20px;
+    }
+    .form-check{
+        font-size: 14px;
+        line-height: 20px;
+        &:nth-child(4){
+            margin-bottom: 50px;
+        }
+    }
+    .btn {
+        width: 180px;
+        font-family: "TTNorms";
+        font-size: 14px;
+        line-height: 24px;
+        border-radius: 0;
+        background: #4990E2;
+        border-radius: 3px;
+    }
+}

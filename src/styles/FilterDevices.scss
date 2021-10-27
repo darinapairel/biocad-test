@@ -1,0 +1,30 @@
+.device-filter{
+    display: inline-block;
+    width: 320px !important;
+    .label{
+        color: #8C8C8C;
+        font-family: "TTNorms";
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.16px;
+        font-feature-settings: 'pnum' on, 'lnum' on;
+    }    
+    .input-group{
+        align-items: center;
+        input{
+            width: 210px;
+            height: 30px;
+            vertical-align: middle;
+        }
+        button{
+            margin-left: 20px !important;
+            width: 90px;
+            height: 40px;
+            border-radius: 3px !important;
+            font-family: "TTNorms";
+            font-size: 14px;
+            line-height: 24px;
+            background: #353535;
+        }
+    }
+}

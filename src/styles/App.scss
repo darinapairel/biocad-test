@@ -1,0 +1,25 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    .report-filter{
+        margin-top: 30px;
+        order: 4;
+    }
+    .device-filter{
+        order: 1;
+        margin-top: 30px;
+    }
+    .unit{
+        order: 2;
+        margin-top: 30px;
+    }
+    .device-info{
+        order: 3;
+        margin-top: 30px;
+    }
+    .table-container{
+        order: 5;
+        margin-top: 45px;
+
+    }
+}
